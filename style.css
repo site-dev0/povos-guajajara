@@ -44,7 +44,7 @@ header > .flex-container > .flex-item1 {
     background-position: center center;
     background-attachment: fixed;
     background-repeat: no-repeat;
-    height: 300px;
+    height: 350px;
 }
 p {
     text-indent: 15px;
@@ -56,7 +56,7 @@ main {
 
 main > h2 {
 
-    padding: 10px;
+    padding: 25px;
 }
 
 main > h3 {
@@ -66,7 +66,7 @@ main > h3 {
 
 main > .saiba-mais {
 
-    padding: 15px;
+    padding: 25px;
 }
 
 main > .saiba-mais > a {
